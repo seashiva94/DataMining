@@ -1,0 +1,34 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Misc{glass,
+  Title                    = {{UCI} Machine Learning Repository},
+
+  Author                   = {M. Lichman},
+  Year                     = {2013},
+
+  Institution              = {University of California, Irvine, School of Information and Computer Sciences},
+  Url                      = {https://archive.ics.uci.edu/ml/datasets/glass+identification}
+}
+
+@Misc{iris,
+  Title                    = {{UCI} Machine Learning Repository},
+
+  Author                   = {M. Lichman},
+  Year                     = {2013},
+
+  Institution              = {University of California, Irvine, School of Information and Computer Sciences},
+  Url                      = {https://archive.ics.uci.edu/ml/datasets/iris}
+}
+
+@Misc{wine,
+  Title                    = {{UCI} Machine Learning Repository},
+
+  Author                   = {M. Lichman},
+  Year                     = {2013},
+
+  Institution              = {University of California, Irvine, School of Information and Computer Sciences},
+  Url                      = {https://archive.ics.uci.edu/ml/datasets/Wine}
+}
+

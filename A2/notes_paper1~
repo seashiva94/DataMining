@@ -1,0 +1,20 @@
+impossibility theorem.
+
+trying to ofrmalize clustering is not easy
+need soms restrictions
+most algos work on relaxations of axioms proposed here
+axioms
+	- scale invariance
+	- richness:
+		any partitions are possible for some distance function
+	- consistency:
+		gamma transform decreases distances of pts in the same cluster
+		increases b/w points of diferent clusters
+
+	- stopping conditions :
+	  	k- cluster
+		r- distance
+		scale alpha
+
+	- using any of the stopping coditions single linkage can satisfy 2
+	properties

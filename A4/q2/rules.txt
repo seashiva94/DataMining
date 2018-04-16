@@ -1,0 +1,5 @@
+if 5_f ===> 16_p and 18_o and 19_l	 confidence = 0.6
+if 2_y and 10_t and 15_w ===> 11_?	 confidence = 0.6
+if 3_e and 18_o ===> 0_p and 8_n	 confidence = 0.6
+if 0_e and 8_b and 21_s ===> 7_w	 confidence = 0.6
+if 0_e and 21_s ===> 7_w and 8_b	 confidence = 0.6

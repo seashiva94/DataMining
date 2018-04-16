@@ -1,0 +1,37 @@
+impossibility theorem.
+
+trying to ofrmalize clustering is not easy
+need soms restrictions
+most algos work on relaxations of axioms proposed here
+axioms
+	- scale invariance
+	- richness:
+		any partitions are possible for some distance function
+	- consistency:
+		gamma transform decreases distances of pts in the same cluster
+		increases b/w points of diferent clusters
+
+	- stopping conditions :
+	  	k- cluster
+		r- distance
+		scale alpha
+
+	- using any of the stopping coditions single linkage can satisfy 2
+	properties
+
+proofs
+	- for any consistent and scale invariant clustering function
+	its range is an antichain.. that is it lacks richness
+
+	- given an antichain A, we can find a clustering function that is
+	scale invariant and consistent such that its range is A
+
+	- for centroid based techniques, clustering functions lack the property
+	of consistency
+
+relaxations
+	- thest properties can be relaxed to scale inveriance, richness and
+	refined consistency
+	- the above are not satisfiable in most cases
+	- some cases it can be satisfied when near-richness is needed
+

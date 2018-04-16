@@ -1,0 +1,73 @@
+\begin{homeworkProblem}[3: Objectives and Significance]
+% rough draft
+The objective of this project is to find trends in the dataset that
+show us how the popularity of a certain business changes over
+time. Further, the project aims to answer a more general question, that
+oes the overall sentiment of popular businesses change after being
+positively or negatively reviewed by an influencer. Influencers here
+can be defined as users who have are well connected on the platform,
+and post reviews frequently.
+
+
+This helps us understand whether there is actually an impact on how
+other users perceive a business, based on the reviews of the few. If
+this is the case, future popularity of a business can be predicted
+based on how it has been reviewed by the influencial users, and
+businesses can maximize their popularity by aimimg to obtain better
+(more positive) reviews from multiple influencers.
+
+
+If this is not the case however, it can be concluded based on data
+that, influencers do not affect popularity in general and further
+analysis must be done to find other factors that determine the general
+sentiment for a business.
+
+\end{homeworkProblem}
+\clearpage
+
+\beigin{homeworkProblem}[4: Background]
+The task at hand requires appliaction of several different
+techniques. Firstly, to identify trends, changes in different
+attributes in the data must be observed using some time series
+analysis. Time series analysis aims to find non-random patterns in
+data, where successive entries inthe data are taken one after another
+at a uniform time step. It also aims to forecast how these trends are
+likely to change in the future with time.
+% in more deatail
+% http://www.statsoft.com/Textbook/Time-Series-Analysis
+
+
+The project relies heavily on natural language processing, and text
+mining techniques, such as keyword identification and sentiment
+analysis, to analyse reviews, and score them based on the sentiment in
+the text. This can be done in teaditional ways that look at words
+associated with positive and negative sentiments, and score a document
+based on these words. This technique however can be fooled to result in
+a negitive document having a positive sentiment score, since it looks
+at individual words. Deep learning has been used to train deep neural
+networks, that build on top of grammatical structures and can capture
+context in a document.
+% in more detail both techniques
+% https://nlp.stanford.edu/sentiment/
+
+
+The results obtained need to be evaluated, to determine whether there
+is an impact of influencers on popularity or the observations in the
+data may have occured due to randomness. Hypothesis testing in
+statistics is a technique that helps in determinig whether a
+relationship between two datasets, defined by a hypothesis is
+statistically significant.
+% https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+
+
+Yelp uploads their data openly as a part of the Yelp Data Challenge,
+and a lot of research has been done to understand relationdships and
+trends in the data.
+
+\end{homeworkProblem}
+\clearpage
+% future attention
+% sentiment in reviews --> rating
+% game theoretic approach b/w yelp and groupon
+% influencers
+% clustering users based on graphs

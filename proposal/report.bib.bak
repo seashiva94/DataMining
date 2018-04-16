@@ -1,0 +1,125 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Misc{wiki-hypothesis,
+  Title                    = {Statistical hypothesis testing --- Wikipedia{,} The Free Encyclopedia},
+
+  Author                   = {Wikipedia contributors},
+  Note                     = {[Online; accessed 4-March-2018]},
+  Year                     = {2018},
+
+  Url                      = {https://en.wikipedia.org/w/index.php?title=Statistical_hypothesis_testing&oldid=825046515}
+}
+
+@Misc{influencer-importance,
+  Title                    = {The Importance and Impact of Influencer Marketing in 2017},
+
+  Author                   = {Pavan Belagatti},
+  HowPublished             = {Influencive Webcite},
+  Year                     = {2017},
+
+  Owner                    = {arnav},
+  Timestamp                = {2018.03.03},
+  Url                      = {https://www.influencive.com/the-importance-and-impact-of-influencer-marketing/}
+}
+
+@Article{harward-yelp-study-2016,
+  Title                    = {Reviews, reputation, and revenue: The case of Yelp. com},
+  Author                   = {Luca, Michael},
+  Year                     = {2016}
+}
+
+@Misc{stanford-core-nlp,
+  Title                    = {Stanford Core NLP - Natural language software},
+
+  Author                   = {Stanford NLP},
+  HowPublished             = {stanford nlp website},
+
+  Owner                    = {arnav},
+  Timestamp                = {2018.03.03},
+  Url                      = {https://stanfordnlp.github.io/CoreNLP/}
+}
+
+@Article{network-influencer-detect,
+  Title                    = {Detecting Topic Authoritative Social Media Users: a Multilayer Network Approach},
+  Author                   = {Oro, Ermelinda and Pizzuti, Clara and Procopio, Nicola and Ruffolo, Massimo},
+  Journal                  = {IEEE Transactions on Multimedia},
+  Year                     = {2017},
+
+  Publisher                = {IEEE}
+}
+
+@Misc{google-patents-key-influencer,
+  Title                    = {Method and system for identifying a key influencer in social media utilizing topic modeling and social diffusion analysis},
+
+  Author                   = {Peng, Wei and Sun, Tong},
+  Month                    = nov # {~13},
+  Note                     = {US Patent 8,312,056},
+  Year                     = {2012},
+
+  Publisher                = {Google Patents}
+}
+
+@Misc{digital-me-up,
+  Title                    = {What is the impact of social media influencers?},
+
+  Author                   = {Romy},
+  HowPublished             = {Digital Me Up Website},
+  Month                    = {April},
+  Year                     = {2017},
+
+  Owner                    = {arnav},
+  Timestamp                = {2018.03.03},
+  Url                      = {http://digital-me-up.com/2017/04/06/impact-social-media-influencers/}
+}
+
+@InProceedings{stanford-nlp-deep-sent,
+  Title                    = {Recursive deep models for semantic compositionality over a sentiment treebank},
+  Author                   = {Socher, Richard and Perelygin, Alex and Wu, Jean and Chuang, Jason and Manning, Christopher D and Ng, Andrew and Potts, Christopher},
+  Booktitle                = {Proceedings of the 2013 conference on empirical methods in natural language processing},
+  Year                     = {2013},
+  Pages                    = {1631--1642}
+}
+
+@Misc{time-series,
+  Title                    = {How To Identify Patterns in Time Series Data: Time Series Analysis},
+
+  Author                   = {statsoft.com},
+  HowPublished             = {statsoft.com website},
+  Year                     = {2018},
+
+  Owner                    = {arnav},
+  Timestamp                = {2018.03.03},
+  Url                      = {http://www.statsoft.com/Textbook/Time-Series-Analysis}
+}
+
+@Misc{stanford-yelp-sentiment-rating-pred,
+  Title                    = {Sentiment Analysis of Yelp‘s Ratings Based on Text Reviews},
+
+  Author                   = {Xu, Yun and Wu, Xinhui and Wang, Qinxia},
+  Year                     = {2015},
+
+  Publisher                = {Stanford University. Web}
+}
+
+@Misc{yelp-data-challenge,
+  Title                    = {Yelp Dataset Challenge},
+
+  Author                   = {Yelp},
+  HowPublished             = {Yelp Dataset Challenge Website},
+  Month                    = {January},
+  Year                     = {2018},
+
+  Owner                    = {arnav},
+  Timestamp                = {2018.03.03},
+  Url                      = {https://www.yelp.com/dataset/challenge}
+}
+
+@Article{survey-deep-sentiment-analysis,
+  Title                    = {Deep Learning for Sentiment Analysis: A Survey},
+  Author                   = {Zhang, Lei and Wang, Shuai and Liu, Bing},
+  Journal                  = {arXiv preprint arXiv:1801.07883},
+  Year                     = {2018}
+}
+
